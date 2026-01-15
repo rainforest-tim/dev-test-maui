@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GeoDraw.App/GeoDraw.App.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="GeoDraw.UnitTests/GeoDraw.UnitTests.csproj" Id="bcafb595-1d3c-4d6f-b396-1beda9062711" />
+</Solution>
